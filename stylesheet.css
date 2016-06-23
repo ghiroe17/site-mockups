@@ -1,0 +1,21 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.event-name > * {
+  margin: 0px;
+}
+
+.event-details {
+  margin-top: 10px;
+  color: #777777;
+}
+
+.container {
+  margin-top: 10px;
+}
