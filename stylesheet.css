@@ -19,3 +19,7 @@ img {
 .container {
   margin-top: 10px;
 }
+
+@media print {
+body {-webkit-print-color-adjust: exact;}
+}
